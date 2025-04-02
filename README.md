@@ -12,7 +12,7 @@ This repository implements the "CorrNet" methodology from the research article "
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CorrNet-Pruning.git
+   git clone https://github.com/akb0787/CorrNet-Pruning.git
    cd CorrNet-Pruning
    
 ## Install dependencies:
